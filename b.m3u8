@@ -1,201 +1,553 @@
 #EXTM3U
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANIMAL PLANET
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157532
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANTV (720p) [Geo-blocked]
-http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",ANiPlus
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157611
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",AXN
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165079
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",All Sports
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Baby TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157605
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Bali TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/197962
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Berita Satu
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162513
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Berita Satu World
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162136
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News",BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",BeritaSatu (720p)
-https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",BeritaSatu World (720p) [Not 24/7]
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Besmart
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165087
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Bloomberg
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157599
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Boomerang
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165109
-#EXTINF:0 tvg-country="ID;SG" tvg-logo="" group-title="News",Channel NewsAsia,CNA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Business;Undefined",CNBC,CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="Business;Undefined",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Business;Undefined",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Business;Undefined",CNBC Indonesia 1
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",CNN Indonesia
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162137
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Cartoon Network
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157593
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Crime+ Investigation
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165052
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Disney Channel
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165075
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Disney Junior
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162511
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",FIGHT Sports
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157606
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",FMN
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165057
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162517
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Fox Crime
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165076
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Fox Life
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165083
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Fox Movies Action
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157608
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",France24
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157600
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Undefined",GTV (720p)
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",HBO Family
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/197055
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",HBO HITS
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/196480
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",HBO RED
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/266811
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",History
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162519
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Hits
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165085
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/bD2odoR.png" group-title="Undefined",ID | TVRI,TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/tPvtrgk.png" group-title="Undefined",ID | TVRI Jawa Barat,TVRI Jawa Barat
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="Undefined",ID | TVRI Kanal 3,TVRI Kanal 3
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",IDX
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157590
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Ie
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157582
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Izzah TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/275984
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Jakarta Globe News Channel
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/166399
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="News",JakartaGlobe News (720p) [Not 24/7]
-https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Kids TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162505
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Kompas TV 1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/266804
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Life Style Fashion
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157592
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",MNC Shop Smart
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165104
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",MNC TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165054
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",MTA 3
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/266815
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",MYTV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157603
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Metro TV
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165059
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",NAT GEO
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165094
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",NET.1
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/266806
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Nick Junior
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165107
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",RCTI
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157591
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="Undefined",RCTI (720p)
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="Undefined",RRI Net
+
+
+
+#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/tv-trans7.png" group-title="Indonesia TV",Trans 7
+http://210.210.155.35/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Trans TV
+http://210.210.155.35/x6bnqe/s/s252/01.m3u8
+
+#EXTINF:-1 group-title="Berita",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+
+#EXTINF:-1 group-title="Berita",CNBC Indonesia
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia TV",NET TV FHD
+https://mr.bibbo.id/ccc/NETTV.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",NET TV SD
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="Indonesia TV",Magna Channel HD
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w757574110_b2692000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/MagnaChannel.png" group-title="Indonesia TV",Magna Channel FHD
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",MyTV
+http://210.210.155.35/qwr9ew/s/s46/01.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",SCTV 1
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",SCTV 2
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",INDOSIAR
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",INDOSIAR 2
+http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+
+
+#EXTINF:-1 group-title="Berita",TVOne
+http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
+
+
+
+#EXTINF:-1 group-title="Berita",KompasTV
+http://210.210.155.35/qwr9ew/s/s104/index.m3u8 
+
+#EXTINF:-1 group-title="Indonesia TV",Elshinta TV
+http://210.210.155.35/qwr9ew/s/s10/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",TVRI
+http://210.210.155.35/qwr9ew/s/s11/index.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",TVRI Sport HD
+http://210.210.155.35/qwr9ew/s/s107/index.m3u8 
+
+
+#EXTINF:-1 group-title="Berita",RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",RRI Net
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/266816
-#EXTINF:0 tvg-country="ID" tvg-logo="Logo N/A" group-title="Undefined",Radio 51 TV
-http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",Sony One
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/165077
-#EXTINF:0 tvg-country="AF;AL;DZ;AM;AU;BH;BB;BR;BG;KH;CA;CL;CN;CO;DK;EG;FI;FR;GE;DE;GR;HK;HU;IS;IN;ID;IR;IQ;IL;IT;JP;KW;MY;MX;MN;MA;NL;NZ;NO;OM;PK;PS;PA;PE;PH;PL;PT;QA;RO;SA;RS;SG;SK;ES;SD;SE;CH;TH;TR;UA;AE;GB;US;VN;YE" tvg-logo="" group-title="Undefined;FRANCE;ITALY;MEXICO;PAKISTAN;SPAIN;CHINA",Super Radyo DZBB,Super Radyo DZBB (720p) [Not 24/7]
-http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TV KU
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/166709
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TV One
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/296214
-#EXTINF:0 tvg-country="ID" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040332.png" group-title="Undefined",TVKU
+
+#EXTINF:-1 group-title="Indonesia TV",RTV
+http://210.210.155.35/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Badar TV
+https://e1.siar.us/badartv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",MGS TV
+http://wowza58.indostreamserver.com:1935/mgstv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",DAAI TV
+http://210.210.155.35/qwr9ew/s/s13/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia TV",CTV Banten
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mr.bibbo.id/ccc/ntv.png" group-title="Indonesia TV",Nusantara TV
+https://v6.siar.us/nusantaratv/live/chunks.m3u8
+
+
+
+#EXTINF:-1 group-title="BeritaSatu",Berita Satu SD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+
+#EXTINF:-1 group-title="Berita",Berita Satu HD
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+
+
+#EXTINF:-1 group-title="Berita",Berita Satu World HD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:-1 group-title="Berita",Jakarta Globe
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 group-title="Berita",Jakarta Globe HD
+http://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8 
+
+
+#EXTINF:-1 group-title="TV Daerah",Bali TV
+http://45.126.83.51/uq2663/h/h159/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="Indonesia TV",Rodja TV
+http://210.210.155.35/qwr9ew/s/s14/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",U Channel
+http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",JITV
+http://202.169.224.76:1935/tv/jitv/chunklist_w544975635.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/162504
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="Undefined",TVRI (Opt-3)
-http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com&checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI 4
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/287433
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Aceh (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Aceh (720p) [Not 24/7]
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bali (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bali (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bangka Belitung (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bangka Belitung (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bengkulu (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Bengkulu (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI DKI Jakarta (720p) [Not 24/7]
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Gorontalo
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/166698
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Gorontalo (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Gorontalo (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jambi (720p) [Not 24/7]
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jambi (720p) [Not 24/7]
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Barat
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Barat
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/166688
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Barat (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Tengah
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Tengah (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Tengah (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Local",TVRI Jawa Timur
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Jawa Timur (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Barat
-http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/166701
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Barat (480p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Barat (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Selatan (720p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Tengah (480p)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Undefined",TVRI Kalimantan Timur (720p)
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",TEGAR TV
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV Daerah",JPN Stream
+http://122.248.43.138:1935/jpm/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",JTV Pacitan
+http://122.248.43.138:1935/ch21/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Bengkulu TV
+http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Simpang 5 TV
+http://122.248.43.138:1935/ch4/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Batam TV
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Jawapos TV
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Jawapos TV
+http://122.248.43.138:1935/ch6/myStream/chunklist_w1818250765.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",PAL TV
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",RCTV
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Balikapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Riau TV
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",RBTV
+http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Pon TV
+http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Padang TV
+http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Radar TV
+http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Jambi TV
+http://122.248.43.138:1935/ch23/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",SMTV
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Dayak TV
+http://122.248.43.138:1935/ch26/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Daerah",Citra TV
+http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia TV",Life Style
+http://210.210.155.66/h/h28/01.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Lifestyle
+http://45.126.83.51/uq2663/h/h28/index2.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Knowledge
+http://210.210.155.35/x6bnqe/s/s36/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Showbiz 1
+http://210.210.155.35/x6bnqe/s/s35/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Showbiz 2
+http://210.210.155.35/session/a7b40e8c-3be0-11eb-93d7-8dec8236dca8/x6bnqe/s/s35/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Indonesia TV",Play
+http://210.210.155.35/x6bnqe/s/s101/live.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV" tvg-logo="/storage/emulated/0/logo_tv/molatv.jpeg",Mola TV
+http://bit.ly/2Ueb5js
+
+
+
+
+
+#EXTINF:-1 group-title="Indonesia TV",JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1946012755.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",JTV
+http://210.210.155.35/x6bnqe/s/s91/S4/mnf.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Indonesia TV",Live Streaming 1
+http://210.210.155.35/x6bnqe/s/s100/live.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Live Streaming 2
+http://210.210.155.35/uq2663/h/h998/live.m3u8
+
+#EXTINF:-1 group-title="Indonesia TV",Sinema Indonesia
+http://45.126.83.51/uq2663/h/h155/S4/mnf.m3u8
+
+
+
+
+
+
+
+#########  CHANNEL INTERNATIONAL ########
+
+
+#EXTINF:-1, group-title=Music",ONE
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title=Music",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 group-title=Music",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="/storage/emulated/0/logo_tv/cbs.png" group-title="International",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
+
+
+#EXTINF:0 group-title="International",NBC News
+http://161.0.157.50/PLTV/88888888/224/3221227040/index.m3u8
+
+#EXTINF:-1 group-title="International",Channel News Asia
+http://45.126.83.51/uq2663/h/h29/index2.m3u8
+
+#EXTINF:-1 group-title="International",NHK WORLD
+http://45.126.83.51/uq2663/h/h23/index2.m3u8
+
+#EXTINF:-1 group-title="International",Al Jazeera
+http://210.210.155.35/qwr9ew/s/s16/index.m3u8
+
+#EXTINF:-1 group-title="International",Al Jazeera
+http://210.210.155.35/qwr9ew/s/s17/index.m3u8
+
+#EXTINF:-1 group-title="International",TRT WORLD
+http://210.210.155.35/uq2663/h/h156/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="International",UA
+http://210.210.155.35/uq2663/h/h101/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="International",CCTV 4
+http://210.210.155.35/qwr9ew/s/s19/index.m3u8
+
+#EXTINF:-1 group-title="International",FRANCE 24
+http://45.126.83.51/qwr9ew/s/s22/index.m3u8
+
+#EXTINF:-1 group-title="International",TV5MONDE
+http://45.126.83.51/qwr9ew/s/s24/index.m3u8
+
+#EXTINF:-1 group-title="International",DW TV
+http://210.210.155.35/session/da5339aa-1f82-11eb-b5b0-9a5685350a12/qwr9ew/s/s26/index.m3u8
+
+#EXTINF:-1 group-title="International",TBN
+http://45.126.83.51/qwr9ew/s/s39/index.m3u8
+
+#EXTINF:-1 group-title="International",CGTN
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+
+
+#EXTINF:-1 group-title="International",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Makkah1.jpg" group-title="International",Makkah
+http://210.210.155.35/session/3d4a6e12-22d9-11eb-a769-b82a72d63267/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Makkah2.jpg" group-title="International",Makkah
+http://45.126.83.51/qwr9ew/s/s27/02.m3u8
+
+#EXTINF:-1 group-title="International",Phoenix
+http://210.210.155.35/uq2663/h/h157/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="International",Phoenix News
+http://45.126.83.51/qwr9ew/s/s21/index.m3u8
+
+#EXTINF:-1 group-title="International",Xing Kong
+http://210.210.155.35/x6bnqe/s/s94/S4/mnf.m3u8
+
+
+#EXTINF:-1 group-title="International",?????
+http://45.126.83.51/qwr9ew/s/s29/index.m3u8
+
+#EXTINF:-1 group-title="International",K Drama
+http://45.126.83.51/qwr9ew/s/s42/index.m3u8
+
+#EXTINF:-1 group-title="International",Toon Max
+http://45.126.83.51/qwr9ew/s/s50/index.m3u8
+
+
+#EXTINF:-1 group-title="International",RT
+http://45.126.83.51/qwr9ew/s/s23/index.m3u8
+
+#EXTINF:-1 group-title="International",RTP
+http://45.126.83.51/qwr9ew/s/s38/index.m3u8
+
+#EXTINF:-1 group-title="International",Rai Italia
+http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
+
+
+
+######## CHANNEL PREMIUM  ########
+
+
+#EXTINF:-1 group-title="Channel TV Premium",EGG
+http://210.210.155.66/h/h22/01.m3u8
+
+
+#EXTINF:-1 group-title="Channel TV Premium",eGG NETWORK
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Fight Sport
+http://210.210.155.66/h/h05/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Animax 1
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Animax 2
+http://rr1.dens.tv/h/h144/index10.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Animax 3
+http://210.210.155.35/dr9445/h/h144/index10.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Ani Plus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",My Kidz 1
+http://210.210.155.66/h/h98/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",My Kidz 2
+http://45.126.83.51/uq2663/h/h98/index.m3u8
+
+
+#EXTINF:-1 group-title="Channel TV Premium",Cartoon Network
+http://136.243.177.164/CARTOONNETWORK/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Channel TV Premium",AXN
+http://210.210.155.66/h/h141/01.m3u8
+
+
+#EXTINF:-1 group-title="Channel TV Premium",KIX
+http://210.210.155.66/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 1
+http://45.126.83.51/uq2663/h/h37/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 2
+http://210.210.155.66/h/h37/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",HITS MOVIES 3
+http://210.210.155.35/uq2663/h/h37/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Blue Ant Entertainment
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",K+ 1
+http://210.210.155.66/h/h08/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",K+ 2
+http://45.126.83.51/uq2663/h/h08/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",ONE
+http://210.210.155.66/h/h143/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",GEM
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Cinema World 1
+http://210.210.155.66/h/h04/01.m3u8
+
+http://rr.dens.tv/h/h04/index2.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Celestial Movies 1
+http://45.126.83.51/qwr9ew/s/s33/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Celestial Movies 2
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Zee Bioskop
+http://45.126.83.51/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Thrill 1
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Thrill 2
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Style HD
+http://210.210.155.35/uq2663/h/h01/01.m3u8
+
+#EXTINF:-1 group-title="Channel TV Premium",Bloomberg
+http://210.210.155.35/uq2663/h/h03/01.m3u8
+
+
+
+
+
+
+
+
+####### FILM TV #######
+
+#EXTINF:-1 group-title="Film TV",FILMY
+http://210.210.155.35/uq2663/h/h154/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Film TV",Telenovela Channel
+http://210.210.155.35/uq2663/h/h153/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Film TV",DUBAI International
+http://210.210.155.35/uq2663/h/h152/S4/mnf.m3u8
+
+#EXTINF:-1 group-title="Film TV",Movies Now
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",MNX
+http://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",One TV
+http://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8 
+
+
+
+#EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="/storage/emulated/0/logo_tv/hbo-logo.jpg" group-title="Film TV",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+#EXTINF:0 tvg-name="HBOHits.id" tvg-logo="/storage/emulated/0/logo_tv/HBO_Signature.png" group-title="Film TV",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="/storage/emulated/0/logo_tv/HBO_Family.png" group-title="Film TV",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="/storage/emulated/0/logo_tv/HBOHits.png" group-title="Film TV",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="CMAX4.png" group-title="Film TV",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+
+#EXTINF:0 tvg-name="HBO.id" tvg-logo="/storage/emulated/0/logo_tv/redbyhbo.png" group-title="Film TV",Red By HBO
+https://raw.githubusercontent.com/zalindo/tv/master/red.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/kix.png" group-title="Film TV",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 3
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Thrill 4
+http://rr2.dens.tv/s/s34/index1.m3u8
+
+#EXTINF:-1 group-title="Film TV" tvg-logo="/storage/emulated/0/logo_tv/mycinema.jpeg",My Cinema 1
+http://210.210.155.66/h/h90/index.m3u8
+
+#EXTINF:-1 group-title="Film TV",My Cinema 2
+http://210.210.155.35/uq2663/h/h90/index2.m3u8
+
+#EXTINF:-1 group-title="Film TV",My Cinema 3
+http://45.126.83.51/uq2663/h/h90/index1.m3u8
+
+#EXTINF:-1 tvg-logo="/storage/emulated/0/logo_tv/Cinema_World.jpg" group-title="Film TV",My Cinema 4
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Cinema World 2
+http://210.210.155.66/h/h04/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Film TV",Cinema World 3
+http://rr.dens.tv/h/h04/index10.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",Cinema World 4
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",HBO
+http://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+
+
+#EXTINF:-1 group-title="Film TV",WAU
+http://nn.geo.joj.sk/hls/wau-360.m3u8
+
+
